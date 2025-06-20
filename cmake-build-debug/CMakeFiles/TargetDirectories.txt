@@ -1,0 +1,3 @@
+/home/sia/CLionProjects/20210105/20210118_InvariantController/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/sia/CLionProjects/20210105/20210118_InvariantController/cmake-build-debug/CMakeFiles/softExos.dir
+/home/sia/CLionProjects/20210105/20210118_InvariantController/cmake-build-debug/CMakeFiles/edit_cache.dir

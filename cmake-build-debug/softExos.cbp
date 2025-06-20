@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="softExos"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/sia/CLionProjects/20210105/20210118_InvariantController/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/sia/CLionProjects/20210105/20210118_InvariantController/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/sia/CLionProjects/20210105/20210118_InvariantController/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/sia/CLionProjects/20210105/20210118_InvariantController/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/sia/CLionProjects/20210105/20210118_InvariantController/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/home/sia/CLionProjects/20210105/20210118_InvariantController/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/sia/CLionProjects/20210105/20210118_InvariantController/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/sia/CLionProjects/20210105/20210118_InvariantController/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/sia/CLionProjects/20210105/20210118_InvariantController/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/sia/CLionProjects/20210105/20210118_InvariantController/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="softExos">
+				<Option output="/home/sia/CLionProjects/20210105/20210118_InvariantController/cmake-build-debug/softExos" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/sia/CLionProjects/20210105/20210118_InvariantController/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/sia/CLionProjects/20210105/20210118_InvariantController/./Robot_x64V8.1.4.0/RobotLib/include"/>
+					<Add directory="/home/sia/CLionProjects/20210105/20210118_InvariantController/./LpSensor-1.3.5-Linux-x86-64/include"/>
+					<Add directory="/usr/include/c++/4.8"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/4.8"/>
+					<Add directory="/usr/include/c++/4.8/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/4.8/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/4.8/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/sia/CLionProjects/20210105/20210118_InvariantController/cmake-build-debug/Makefile&quot;  VERBOSE=1 softExos"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/sia/CLionProjects/20210105/20210118_InvariantController/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/sia/CLionProjects/20210105/20210118_InvariantController/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/sia/CLionProjects/20210105/20210118_InvariantController/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="softExos/fast">
+				<Option output="/home/sia/CLionProjects/20210105/20210118_InvariantController/cmake-build-debug/softExos" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/sia/CLionProjects/20210105/20210118_InvariantController/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/sia/CLionProjects/20210105/20210118_InvariantController/./Robot_x64V8.1.4.0/RobotLib/include"/>
+					<Add directory="/home/sia/CLionProjects/20210105/20210118_InvariantController/./LpSensor-1.3.5-Linux-x86-64/include"/>
+					<Add directory="/usr/include/c++/4.8"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/4.8"/>
+					<Add directory="/usr/include/c++/4.8/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/4.8/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/4.8/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/sia/CLionProjects/20210105/20210118_InvariantController/cmake-build-debug/Makefile&quot;  VERBOSE=1 softExos/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/sia/CLionProjects/20210105/20210118_InvariantController/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/sia/CLionProjects/20210105/20210118_InvariantController/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/sia/CLionProjects/20210105/20210118_InvariantController/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/home/sia/CLionProjects/20210105/20210118_InvariantController/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/sia/CLionProjects/20210105/20210118_InvariantController/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/sia/CLionProjects/20210105/20210118_InvariantController/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/sia/CLionProjects/20210105/20210118_InvariantController/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/sia/CLionProjects/20210105/20210118_InvariantController/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/sia/CLionProjects/20210105/20210118_InvariantController/CubicSpline.cpp">
+			<Option target="softExos"/>
+		</Unit>
+		<Unit filename="/home/sia/CLionProjects/20210105/20210118_InvariantController/CubicSpline.h">
+			<Option target="softExos"/>
+		</Unit>
+		<Unit filename="/home/sia/CLionProjects/20210105/20210118_InvariantController/assisForce.cpp">
+			<Option target="softExos"/>
+		</Unit>
+		<Unit filename="/home/sia/CLionProjects/20210105/20210118_InvariantController/assisForce.h">
+			<Option target="softExos"/>
+		</Unit>
+		<Unit filename="/home/sia/CLionProjects/20210105/20210118_InvariantController/control.cpp">
+			<Option target="softExos"/>
+		</Unit>
+		<Unit filename="/home/sia/CLionProjects/20210105/20210118_InvariantController/control.h">
+			<Option target="softExos"/>
+		</Unit>
+		<Unit filename="/home/sia/CLionProjects/20210105/20210118_InvariantController/filter.cpp">
+			<Option target="softExos"/>
+		</Unit>
+		<Unit filename="/home/sia/CLionProjects/20210105/20210118_InvariantController/filter.h">
+			<Option target="softExos"/>
+		</Unit>
+		<Unit filename="/home/sia/CLionProjects/20210105/20210118_InvariantController/futek.cpp">
+			<Option target="softExos"/>
+		</Unit>
+		<Unit filename="/home/sia/CLionProjects/20210105/20210118_InvariantController/futek.h">
+			<Option target="softExos"/>
+		</Unit>
+		<Unit filename="/home/sia/CLionProjects/20210105/20210118_InvariantController/gaussianFnc.cpp">
+			<Option target="softExos"/>
+		</Unit>
+		<Unit filename="/home/sia/CLionProjects/20210105/20210118_InvariantController/gaussianFnc.h">
+			<Option target="softExos"/>
+		</Unit>
+		<Unit filename="/home/sia/CLionProjects/20210105/20210118_InvariantController/imu.cpp">
+			<Option target="softExos"/>
+		</Unit>
+		<Unit filename="/home/sia/CLionProjects/20210105/20210118_InvariantController/imu.h">
+			<Option target="softExos"/>
+		</Unit>
+		<Unit filename="/home/sia/CLionProjects/20210105/20210118_InvariantController/macroDefinition.h">
+			<Option target="softExos"/>
+		</Unit>
+		<Unit filename="/home/sia/CLionProjects/20210105/20210118_InvariantController/main.cpp">
+			<Option target="softExos"/>
+		</Unit>
+		<Unit filename="/home/sia/CLionProjects/20210105/20210118_InvariantController/pid.cpp">
+			<Option target="softExos"/>
+		</Unit>
+		<Unit filename="/home/sia/CLionProjects/20210105/20210118_InvariantController/pid.h">
+			<Option target="softExos"/>
+		</Unit>
+		<Unit filename="/home/sia/CLionProjects/20210105/20210118_InvariantController/robot.cpp">
+			<Option target="softExos"/>
+		</Unit>
+		<Unit filename="/home/sia/CLionProjects/20210105/20210118_InvariantController/robot.h">
+			<Option target="softExos"/>
+		</Unit>
+		<Unit filename="/home/sia/CLionProjects/20210105/20210118_InvariantController/serial.cpp">
+			<Option target="softExos"/>
+		</Unit>
+		<Unit filename="/home/sia/CLionProjects/20210105/20210118_InvariantController/serial.h">
+			<Option target="softExos"/>
+		</Unit>
+		<Unit filename="/home/sia/CLionProjects/20210105/20210118_InvariantController/signalInterrupt.cpp">
+			<Option target="softExos"/>
+		</Unit>
+		<Unit filename="/home/sia/CLionProjects/20210105/20210118_InvariantController/signalInterrupt.h">
+			<Option target="softExos"/>
+		</Unit>
+		<Unit filename="/home/sia/CLionProjects/20210105/20210118_InvariantController/tcpReceive.cpp">
+			<Option target="softExos"/>
+		</Unit>
+		<Unit filename="/home/sia/CLionProjects/20210105/20210118_InvariantController/tcpReceive.h">
+			<Option target="softExos"/>
+		</Unit>
+		<Unit filename="/home/sia/CLionProjects/20210105/20210118_InvariantController/timeInterval.cpp">
+			<Option target="softExos"/>
+		</Unit>
+		<Unit filename="/home/sia/CLionProjects/20210105/20210118_InvariantController/timeInterval.h">
+			<Option target="softExos"/>
+		</Unit>
+		<Unit filename="/home/sia/CLionProjects/20210105/20210118_InvariantController/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

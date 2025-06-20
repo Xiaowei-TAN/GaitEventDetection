@@ -1,0 +1,2 @@
+Cannot generate 'Debug' into /home/sia/CLionProjects/20220803_ExosuitXsens_FF_Bilateral_Simplified_LW&RA_addSync/cmake-build-debug
+CMakeCache.txt is found in the project dir, only in-source generation will be performed.

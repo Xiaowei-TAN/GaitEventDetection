@@ -1,0 +1,4 @@
+nTime,cycle,phaseIMU,newPhaseIMU,newPhaseFSR,phaseFSR,total,fsr_FO,fsr_FI,fsr_HE,angle,angleVel,glrt,glrt_thld,glrt_wind,newMovingState,movingState,neglectHS,neglectTO,minFootPitch,maxFootPitch,minFootPitchVel,gThld_HS,gThld_TO,gThld_TO_AGL
+0,0,2,1,4,4,0,0,0,0,-38.042,0.377,97.92,100000,1,0,0,0,0,-38.042,-38.042,0,0,0,0
+0.006,0,2,1,4,4,0,0,0,0,-37.946,0.599,101.143,100000,1,0,0,0,0,-38.042,-37.946,0,0,0,0
+0.014,0,2,1,4,4,0,0,0,0,-37.992,0.462,108.343,100000,1,0,0,0,0,-38.042,-37.946,0,0,0,0
