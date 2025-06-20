@@ -1,0 +1,3 @@
+/home/sia/TIM_GED_Code/CMakeFiles/rebuild_cache.dir
+/home/sia/TIM_GED_Code/CMakeFiles/gaitEventDetect.dir
+/home/sia/TIM_GED_Code/CMakeFiles/edit_cache.dir
