@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="softExos"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/sia/CLionProjects/20241217_GaitEventDetection"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/sia/CLionProjects/20241217_GaitEventDetection/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/sia/CLionProjects/20241217_GaitEventDetection/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/sia/CLionProjects/20241217_GaitEventDetection/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/sia/CLionProjects/20241217_GaitEventDetection/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/home/sia/CLionProjects/20241217_GaitEventDetection"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/sia/CLionProjects/20241217_GaitEventDetection/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/sia/CLionProjects/20241217_GaitEventDetection/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/sia/CLionProjects/20241217_GaitEventDetection/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/sia/CLionProjects/20241217_GaitEventDetection/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="softExos">
+				<Option output="/home/sia/CLionProjects/20241217_GaitEventDetection/softExos" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/sia/CLionProjects/20241217_GaitEventDetection"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/sia/CLionProjects/20241217_GaitEventDetection/./Xsens/include"/>
+					<Add directory="/usr/include/c++/4.8"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/4.8"/>
+					<Add directory="/usr/include/c++/4.8/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/4.8/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/4.8/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/sia/CLionProjects/20241217_GaitEventDetection/Makefile&quot;  VERBOSE=1 softExos"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/sia/CLionProjects/20241217_GaitEventDetection/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/sia/CLionProjects/20241217_GaitEventDetection/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/sia/CLionProjects/20241217_GaitEventDetection/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="softExos/fast">
+				<Option output="/home/sia/CLionProjects/20241217_GaitEventDetection/softExos" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/sia/CLionProjects/20241217_GaitEventDetection"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/sia/CLionProjects/20241217_GaitEventDetection/./Xsens/include"/>
+					<Add directory="/usr/include/c++/4.8"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/4.8"/>
+					<Add directory="/usr/include/c++/4.8/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/4.8/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/4.8/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/sia/CLionProjects/20241217_GaitEventDetection/Makefile&quot;  VERBOSE=1 softExos/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/sia/CLionProjects/20241217_GaitEventDetection/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/sia/CLionProjects/20241217_GaitEventDetection/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/sia/CLionProjects/20241217_GaitEventDetection/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/home/sia/CLionProjects/20241217_GaitEventDetection"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/sia/CLionProjects/20241217_GaitEventDetection/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/sia/CLionProjects/20241217_GaitEventDetection/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/sia/CLionProjects/20241217_GaitEventDetection/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/sia/CLionProjects/20241217_GaitEventDetection/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/sia/CLionProjects/20241217_GaitEventDetection/TCPIP_Functions.cpp">
+			<Option target="softExos"/>
+		</Unit>
+		<Unit filename="/home/sia/CLionProjects/20241217_GaitEventDetection/TCPIP_Functions.h">
+			<Option target="softExos"/>
+		</Unit>
+		<Unit filename="/home/sia/CLionProjects/20241217_GaitEventDetection/externalSync.cpp">
+			<Option target="softExos"/>
+		</Unit>
+		<Unit filename="/home/sia/CLionProjects/20241217_GaitEventDetection/externalSync.h">
+			<Option target="softExos"/>
+		</Unit>
+		<Unit filename="/home/sia/CLionProjects/20241217_GaitEventDetection/logCreate.cpp">
+			<Option target="softExos"/>
+		</Unit>
+		<Unit filename="/home/sia/CLionProjects/20241217_GaitEventDetection/logCreate.h">
+			<Option target="softExos"/>
+		</Unit>
+		<Unit filename="/home/sia/CLionProjects/20241217_GaitEventDetection/macroDefinition.h">
+			<Option target="softExos"/>
+		</Unit>
+		<Unit filename="/home/sia/CLionProjects/20241217_GaitEventDetection/main.cpp">
+			<Option target="softExos"/>
+		</Unit>
+		<Unit filename="/home/sia/CLionProjects/20241217_GaitEventDetection/serial.cpp">
+			<Option target="softExos"/>
+		</Unit>
+		<Unit filename="/home/sia/CLionProjects/20241217_GaitEventDetection/serial.h">
+			<Option target="softExos"/>
+		</Unit>
+		<Unit filename="/home/sia/CLionProjects/20241217_GaitEventDetection/signalInterrupt.cpp">
+			<Option target="softExos"/>
+		</Unit>
+		<Unit filename="/home/sia/CLionProjects/20241217_GaitEventDetection/signalInterrupt.h">
+			<Option target="softExos"/>
+		</Unit>
+		<Unit filename="/home/sia/CLionProjects/20241217_GaitEventDetection/timeInterval.cpp">
+			<Option target="softExos"/>
+		</Unit>
+		<Unit filename="/home/sia/CLionProjects/20241217_GaitEventDetection/timeInterval.h">
+			<Option target="softExos"/>
+		</Unit>
+		<Unit filename="/home/sia/CLionProjects/20241217_GaitEventDetection/xsensImu.cpp">
+			<Option target="softExos"/>
+		</Unit>
+		<Unit filename="/home/sia/CLionProjects/20241217_GaitEventDetection/xsensImu.h">
+			<Option target="softExos"/>
+		</Unit>
+		<Unit filename="/home/sia/CLionProjects/20241217_GaitEventDetection/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
